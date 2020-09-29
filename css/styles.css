@@ -9,6 +9,10 @@
     border-bottom: 1px ridge;
     min-height:400px;
 }
+.row-aboutus {
+    margin:0px auto;
+    border-bottom: 1px ridge;
+}
 
 .footer{
     background-color: #D1C4E9;
